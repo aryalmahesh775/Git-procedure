@@ -1,0 +1,6 @@
+ "# Git-procedure"
+1 . git init
+2 . git add (file location OR drag and drop)
+3 . git commit -m "Commit name"
+4 . git remote add origin (https://github.com/aryalmahesh775/Git-procedure.git)# repo ko link i.e ssh link copy garako(optional ho ek palta gare paxi not necessery to do again if want to push in same repo)
+5 . git push  origin master
