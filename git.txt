@@ -4,3 +4,19 @@
 3 . git commit -m "Commit name"
 4 . git remote add origin (https://github.com/aryalmahesh775/Git-procedure.git)# repo ko link i.e ssh link copy garako(optional ho ek palta gare paxi not necessery to do again if want to push in same repo)
 5 . git push  origin master
+
+
+
+FONT-AWESOME    
+
+<link
+      rel="stylesheet"
+      href="https://use.fontawesome.com/releases/v5.8.1/css/all.css"
+      integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf"
+      crossorigin="anonymous"
+    />
+
+
+
+mongodb -- 
+	/Users/Asus/mongodb/bin/mongod.exe --dbpath=/Users/Asus/mongodb-data
